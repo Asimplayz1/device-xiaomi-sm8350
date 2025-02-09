@@ -1,0 +1,3 @@
+# Torch
+type sysfs_torch, fs_type, sysfs_type;
+
